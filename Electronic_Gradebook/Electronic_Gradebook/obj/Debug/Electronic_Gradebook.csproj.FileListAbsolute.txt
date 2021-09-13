@@ -1,0 +1,5 @@
+D:\Root\NewArraylib\Electronic_Gradebook\bin\Debug\Electronic_Gradebook.exe
+D:\Root\NewArraylib\Electronic_Gradebook\bin\Debug\Electronic_Gradebook.pdb
+D:\Root\NewArraylib\Electronic_Gradebook\obj\Debug\Electronic_Gradebook.csprojResolveAssemblyReference.cache
+D:\Root\NewArraylib\Electronic_Gradebook\obj\Debug\Electronic_Gradebook.exe
+D:\Root\NewArraylib\Electronic_Gradebook\obj\Debug\Electronic_Gradebook.pdb
